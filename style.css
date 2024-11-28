@@ -1,0 +1,92 @@
+.navbardesign a{
+    color:white;
+}
+.Introimg img{
+ max-width: 400px;
+ max-height: 700px;  
+ margin-top:50px;
+}
+.introtext strong
+{
+  color:rgb(34, 46, 213);  
+}
+#Intro
+{
+    margin-top:100px;
+}
+.introtext{
+    position: relative;
+    margin-left: 30px;
+    margin-top:30px;
+    color:black;
+}
+.breaking
+{
+    margin-top:25px;
+    height:70px;
+}
+.course
+{
+    margin-left:103px;
+    position: relative;
+    top:140px;
+}
+.Courseshead
+{
+    font-weight:bolder;
+    position: relative;
+    top:50px;
+    font-size:60px;
+    color:rgb(9, 96, 151);
+}
+.react
+{
+    position: relative;
+    top:220px;
+    background-image: url('react-min.jpg');
+    background-position:900px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.container .accordion
+{
+    position:relative;
+     top:400px;
+   
+}
+form{
+    position: relative;
+    top:550px;
+}
+.signup
+{
+    position: relative;
+    top:530px;
+}
+.break{
+    position: relative;
+    top:480px;
+}
+.accordion-body
+{
+    font-weight:23px;
+    color:grey;
+}
+.accordion-button
+{
+    font-size:20px;
+}
+.footer
+{
+    position: relative;
+    top:650px;
+}
+.bi{
+    padding-left:10px;
+    width:50px;
+    height:50px;
+}
+.copyright
+{
+    font-size:13px;
+}
